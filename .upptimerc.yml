@@ -5,12 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: Løbner.dk
     url: https://www.løbner.dk
-  - name: Lobner.dk
-    url: https://www.lobner.dk
+  - name: bdq.dk
+    url: https://www.bdq.dk
   - name: IP @ lobner.dk
     url: https://ip.lobner.dk
   - name: BiQ
     url: https://data.biq.dk
+  - name: CiQ
+    url: https://www.ciq.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
