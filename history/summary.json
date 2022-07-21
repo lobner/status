@@ -4,19 +4,19 @@
     "url": "https://www.løbner.dk",
     "icon": "https://favicons.githubusercontent.com/www.xn--lbner-vua.dk",
     "slug": "lobner-dk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7972,
-    "timeDay": 6747,
-    "timeWeek": 8185,
-    "timeMonth": 7972,
-    "timeYear": 7972,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 7990,
+    "timeDay": 7552,
+    "timeWeek": 8203,
+    "timeMonth": 7990,
+    "timeYear": 7990,
     "dailyMinutesDown": {
-      "2022-07-21": 0
+      "2022-07-21": 9
     }
   },
   {
