@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.xn--lbner-vua.dk",
     "slug": "lobner-dk",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 7927,
-    "timeDay": 7770,
-    "timeWeek": 8113,
-    "timeMonth": 7927,
-    "timeYear": 7927,
-    "dailyMinutesDown": {
-      "2022-07-26": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 7888,
+    "timeDay": 8166,
+    "timeWeek": 7753,
+    "timeMonth": 7888,
+    "timeYear": 7888,
+    "dailyMinutesDown": {}
   },
   {
     "name": "bdq.dk",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 692,
-    "timeWeek": 681,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "time": 656,
+    "timeDay": 667,
+    "timeWeek": 701,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1018,
-    "timeDay": 1365,
-    "timeWeek": 1069,
-    "timeMonth": 1018,
-    "timeYear": 1018,
+    "time": 1024,
+    "timeDay": 1158,
+    "timeWeek": 1113,
+    "timeMonth": 1024,
+    "timeYear": 1024,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 741,
-    "timeWeek": 706,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "time": 762,
+    "timeDay": 836,
+    "timeWeek": 736,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 732,
-    "timeWeek": 711,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "time": 701,
+    "timeDay": 960,
+    "timeWeek": 760,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   }
 ]
