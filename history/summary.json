@@ -4,18 +4,20 @@
     "url": "https://www.løbner.dk",
     "icon": "https://favicons.githubusercontent.com/www.xn--lbner-vua.dk",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8024,
-    "timeDay": 7352,
+    "timeDay": 7055,
     "timeWeek": 7675,
-    "timeMonth": 8024,
+    "timeMonth": 8086,
     "timeYear": 8024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-07": 0
+    }
   },
   {
     "name": "bdq.dk",
@@ -31,7 +33,7 @@
     "time": 641,
     "timeDay": 455,
     "timeWeek": 624,
-    "timeMonth": 641,
+    "timeMonth": 637,
     "timeYear": 641,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 1027,
     "timeDay": 829,
     "timeWeek": 1100,
-    "timeMonth": 1027,
+    "timeMonth": 1018,
     "timeYear": 1027,
     "dailyMinutesDown": {}
   },
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 754,
+    "timeDay": 679,
     "timeWeek": 777,
-    "timeMonth": 769,
+    "timeMonth": 762,
     "timeYear": 769,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 707,
     "timeDay": 709,
     "timeWeek": 780,
-    "timeMonth": 707,
+    "timeMonth": 698,
     "timeYear": 707,
     "dailyMinutesDown": {}
   }
