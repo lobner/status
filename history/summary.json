@@ -4,9 +4,9 @@
     "url": "https://www.løbner.dk",
     "icon": "https://favicons.githubusercontent.com/www.xn--lbner-vua.dk",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 9465,
     "timeMonth": 8487,
     "timeYear": 8354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-14": 0
+    }
   },
   {
     "name": "bdq.dk",
