@@ -60,19 +60,19 @@
     "url": "https://data.biq.dk",
     "icon": "https://favicons.githubusercontent.com/data.biq.dk",
     "slug": "bi-q",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 709,
-    "timeWeek": 757,
-    "timeMonth": 754,
-    "timeYear": 764,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 760,
+    "timeDay": 646,
+    "timeWeek": 731,
+    "timeMonth": 747,
+    "timeYear": 760,
     "dailyMinutesDown": {
-      "2022-09-09": 0
+      "2022-09-09": 17
     }
   },
   {
