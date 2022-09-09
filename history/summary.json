@@ -60,18 +60,20 @@
     "url": "https://data.biq.dk",
     "icon": "https://favicons.githubusercontent.com/data.biq.dk",
     "slug": "bi-q",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 870,
-    "timeWeek": 787,
-    "timeMonth": 761,
-    "timeYear": 767,
-    "dailyMinutesDown": {}
+    "time": 764,
+    "timeDay": 709,
+    "timeWeek": 757,
+    "timeMonth": 754,
+    "timeYear": 764,
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "CiQ",
