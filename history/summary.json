@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 8112,
-    "timeDay": 5986,
-    "timeWeek": 7301,
-    "timeMonth": 8149,
-    "timeYear": 8112,
+    "time": 8127,
+    "timeDay": 9695,
+    "timeWeek": 7170,
+    "timeMonth": 7781,
+    "timeYear": 8127,
     "dailyMinutesDown": {
       "2022-08-20": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 664,
-    "timeWeek": 623,
-    "timeMonth": 764,
-    "timeYear": 706,
+    "time": 704,
+    "timeDay": 593,
+    "timeWeek": 621,
+    "timeMonth": 759,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1351,
-    "timeDay": 4628,
-    "timeWeek": 2060,
-    "timeMonth": 1730,
-    "timeYear": 1351,
+    "time": 1345,
+    "timeDay": 1002,
+    "timeWeek": 2065,
+    "timeMonth": 1717,
+    "timeYear": 1345,
     "dailyMinutesDown": {}
   },
   {
@@ -62,15 +62,15 @@
     "slug": "bi-q",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 764,
-    "timeDay": 693,
-    "timeWeek": 748,
-    "timeMonth": 760,
-    "timeYear": 764,
+    "time": 762,
+    "timeDay": 649,
+    "timeWeek": 716,
+    "timeMonth": 759,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2022-09-09": 17
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 743,
-    "timeDay": 642,
-    "timeWeek": 573,
-    "timeMonth": 788,
+    "timeDay": 703,
+    "timeWeek": 598,
+    "timeMonth": 785,
     "timeYear": 743,
     "dailyMinutesDown": {}
   }
