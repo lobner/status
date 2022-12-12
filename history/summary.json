@@ -6,9 +6,9 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.64%",
     "time": 7910,
     "timeDay": 1350,
@@ -16,7 +16,6 @@
     "timeMonth": 5960,
     "timeYear": 7910,
     "dailyMinutesDown": {
-      "2022-12-11": 9,
       "2022-11-30": 718,
       "2022-10-28": 27,
       "2022-09-17": 54,
@@ -48,9 +47,9 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.65%",
     "time": 1119,
     "timeDay": 602,
@@ -58,7 +57,6 @@
     "timeMonth": 736,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2022-12-11": 9,
       "2022-11-23": 761,
       "2022-10-28": 25
     }
