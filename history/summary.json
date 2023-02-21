@@ -106,17 +106,19 @@
     "url": "https://www.ciq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ciq.dk.ico",
     "slug": "ci-q",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 1125,
-    "timeWeek": 1344,
-    "timeMonth": 1165,
-    "timeYear": 980,
-    "dailyMinutesDown": {}
+    "time": 981,
+    "timeDay": 1115,
+    "timeWeek": 1314,
+    "timeMonth": 1163,
+    "timeYear": 981,
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   }
 ]
