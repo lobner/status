@@ -32,18 +32,20 @@
     "url": "https://www.bdq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.bdq.dk.ico",
     "slug": "bdq-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 4788,
-    "timeWeek": 1218,
-    "timeMonth": 734,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "time": 680,
+    "timeDay": 3655,
+    "timeWeek": 1381,
+    "timeMonth": 790,
+    "timeYear": 680,
+    "dailyMinutesDown": {
+      "2023-02-22": 0
+    }
   },
   {
     "name": "IP @ lobner.dk",
@@ -106,18 +108,19 @@
     "url": "https://www.ciq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ciq.dk.ico",
     "slug": "ci-q",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "76.38%",
-    "uptimeWeek": "96.63%",
+    "uptimeDay": "76.37%",
+    "uptimeWeek": "96.62%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.90%",
-    "time": 1015,
-    "timeDay": 2623,
-    "timeWeek": 1862,
-    "timeMonth": 1377,
-    "timeYear": 1015,
+    "time": 1026,
+    "timeDay": 2769,
+    "timeWeek": 1998,
+    "timeMonth": 1436,
+    "timeYear": 1026,
     "dailyMinutesDown": {
+      "2023-02-22": 0,
       "2023-02-21": 340
     }
   }
