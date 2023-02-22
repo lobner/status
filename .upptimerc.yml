@@ -11,8 +11,8 @@ sites:
     url: https://data.biq.dk
   - name: BiQ Compliance
     url: https://data.ciq.dk
-  - name: BiQ A/S
-    url: https://biq.dk
+#  - name: BiQ A/S
+#    url: https://biq.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
