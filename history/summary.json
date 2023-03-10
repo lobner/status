@@ -78,19 +78,19 @@
     "url": "https://data.ciq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/data.ciq.dk.ico",
     "slug": "bi-q-compliance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 8070,
-    "timeWeek": 2634,
-    "timeMonth": 1560,
-    "timeYear": 1560,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1516,
+    "timeDay": 5607,
+    "timeWeek": 2417,
+    "timeMonth": 1516,
+    "timeYear": 1516,
     "dailyMinutesDown": {
-      "2023-03-10": 0
+      "2023-03-10": 7
     }
   }
 ]
