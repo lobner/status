@@ -13,7 +13,7 @@
     "time": 4842,
     "timeDay": 1101,
     "timeWeek": 1133,
-    "timeMonth": 1458,
+    "timeMonth": 1476,
     "timeYear": 4723,
     "dailyMinutesDown": {
       "2023-06-30": 52,
@@ -68,9 +68,9 @@
     "url": "https://data.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/data.biq.dk.ico",
     "slug": "bi-q-insight",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.93%",
@@ -80,6 +80,7 @@
     "timeMonth": 670,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2023-07-20": 0,
       "2023-07-04": 150
     }
   },
