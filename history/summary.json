@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2410,
-    "timeDay": 614,
-    "timeWeek": 514,
-    "timeMonth": 730,
-    "timeYear": 1465,
+    "time": 2406,
+    "timeDay": 483,
+    "timeWeek": 527,
+    "timeMonth": 701,
+    "timeYear": 1464,
     "dailyMinutesDown": {
       "2023-10-03": 48,
       "2023-08-09": 17,
@@ -26,8 +26,7 @@
       "2023-06-12": 32,
       "2023-04-02": 19,
       "2023-03-09": 75,
-      "2023-01-10": 26,
-      "2023-01-09": 55
+      "2023-01-10": 26
     }
   },
   {
@@ -42,15 +41,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1057,
-    "timeDay": 782,
-    "timeWeek": 617,
-    "timeMonth": 664,
-    "timeYear": 893,
+    "timeDay": 942,
+    "timeWeek": 674,
+    "timeMonth": 669,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2023-10-03": 47,
       "2023-03-24": 23,
-      "2023-01-10": 26,
-      "2023-01-09": 29
+      "2023-01-10": 26
     }
   },
   {
@@ -65,9 +63,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 693,
-    "timeDay": 786,
-    "timeWeek": 606,
-    "timeMonth": 650,
+    "timeDay": 572,
+    "timeWeek": 615,
+    "timeMonth": 644,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2023-07-04": 150
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1302,
-    "timeDay": 1103,
-    "timeWeek": 842,
-    "timeMonth": 852,
-    "timeYear": 1302,
+    "time": 1301,
+    "timeDay": 996,
+    "timeWeek": 875,
+    "timeMonth": 856,
+    "timeYear": 1301,
     "dailyMinutesDown": {
       "2023-04-18": 16
     }
