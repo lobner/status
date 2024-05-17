@@ -6,8 +6,8 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
     "time": 1286,
@@ -16,7 +16,6 @@
     "timeMonth": 587,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-05-16": 3,
       "2024-05-08": 85,
       "2024-02-08": 22,
       "2023-10-03": 48,
@@ -36,8 +35,8 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 790,
@@ -46,7 +45,6 @@
     "timeMonth": 622,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-05-16": 2,
       "2024-05-08": 85,
       "2023-10-03": 47
     }
