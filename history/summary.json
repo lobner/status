@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
-    "time": 1233,
-    "timeDay": 486,
-    "timeWeek": 465,
+    "time": 1232,
+    "timeDay": 802,
+    "timeWeek": 509,
     "timeMonth": 552,
-    "timeYear": 1113,
+    "timeYear": 1111,
     "dailyMinutesDown": {
       "2024-05-08": 85,
       "2024-02-08": 22,
@@ -40,9 +40,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.97%",
     "time": 789,
-    "timeDay": 519,
-    "timeWeek": 517,
-    "timeMonth": 607,
+    "timeDay": 819,
+    "timeWeek": 578,
+    "timeMonth": 618,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2024-05-08": 85,
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 666,
-    "timeDay": 438,
-    "timeWeek": 642,
-    "timeMonth": 631,
+    "timeDay": 854,
+    "timeWeek": 658,
+    "timeMonth": 625,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2023-07-04": 150
@@ -76,17 +76,15 @@
     "slug": "bi-q-compliance",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1191,
-    "timeDay": 4211,
-    "timeWeek": 1980,
-    "timeMonth": 1131,
+    "time": 1192,
+    "timeDay": 4192,
+    "timeWeek": 1972,
+    "timeMonth": 1134,
     "timeYear": 912,
-    "dailyMinutesDown": {
-      "2024-05-26": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
