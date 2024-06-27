@@ -49,9 +49,9 @@
     "url": "https://data.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/data.biq.dk.ico",
     "slug": "bi-q-insight",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -61,6 +61,7 @@
     "timeMonth": 1075,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2024-06-27": 0,
       "2023-07-04": 150
     }
   },
