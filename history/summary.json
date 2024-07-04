@@ -48,19 +48,19 @@
     "url": "https://data.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/data.biq.dk.ico",
     "slug": "bi-q-insight",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "99.01%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "94.09%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.89%",
-    "time": 689,
-    "timeDay": 549,
-    "timeWeek": 621,
-    "timeMonth": 1059,
-    "timeYear": 660,
+    "time": 688,
+    "timeDay": 538,
+    "timeWeek": 612,
+    "timeMonth": 1044,
+    "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-07-04": 0,
+      "2024-07-04": 163,
       "2024-06-28": 389,
       "2024-06-27": 43
     }
@@ -71,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.ciq.dk.ico",
     "slug": "bi-q-compliance",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "87.92%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.97%",
     "time": 1159,
     "timeDay": 7307,
     "timeWeek": 2462,
     "timeMonth": 1315,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2024-07-04": 11
+      "2024-07-04": 174
     }
   }
 ]
