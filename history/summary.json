@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 1010,
     "timeDay": 581,
-    "timeWeek": 590,
+    "timeWeek": 614,
     "timeMonth": 567,
     "timeYear": 814,
     "dailyMinutesDown": {
@@ -27,9 +27,9 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -39,6 +39,7 @@
     "timeMonth": 608,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2024-08-07": 0,
       "2024-05-08": 85,
       "2023-10-03": 47
     }
