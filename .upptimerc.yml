@@ -8,11 +8,13 @@ sites:
   - name: IP @ lobner.dk
     url: https://ip.lobner.dk
   - name: BiQ Insight
-    url: https://data.biq.dk
+    url: https://insight.biq.dk
+  - name: BiQ Insight (data)
+    url: https://data.biq.dk    
   - name: BiQ Compliance
-    url: https://data.ciq.dk
-#  - name: BiQ A/S
-#    url: https://biq.dk
+    url: https://compliance.biq.dk
+  - name: BiQ A/S
+    url: https://www.biq.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
