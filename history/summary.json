@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 807,
-    "timeDay": 717,
-    "timeWeek": 553,
-    "timeMonth": 574,
-    "timeYear": 679,
+    "time": 806,
+    "timeDay": 533,
+    "timeWeek": 570,
+    "timeMonth": 575,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-05-08": 85,
       "2024-02-08": 22
@@ -27,17 +27,17 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 622,
-    "timeDay": 663,
-    "timeWeek": 622,
-    "timeMonth": 594,
+    "timeDay": 557,
+    "timeWeek": 615,
+    "timeMonth": 592,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-10-19": 32,
+      "2024-10-19": 20,
       "2024-05-08": 85
     }
   },
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 698,
-    "timeDay": 585,
-    "timeWeek": 556,
+    "timeDay": 533,
+    "timeWeek": 557,
     "timeMonth": 581,
     "timeYear": 714,
     "dailyMinutesDown": {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 725,
-    "timeWeek": 591,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "time": 588,
+    "timeDay": 552,
+    "timeWeek": 605,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   },
   {
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 935,
-    "timeDay": 1295,
-    "timeWeek": 1208,
-    "timeMonth": 1087,
-    "timeYear": 919,
+    "timeDay": 746,
+    "timeWeek": 1191,
+    "timeMonth": 1090,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2024-07-04": 196
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 2055,
-    "timeDay": 1236,
-    "timeWeek": 1036,
-    "timeMonth": 2059,
-    "timeYear": 2059,
+    "time": 2021,
+    "timeDay": 896,
+    "timeWeek": 1024,
+    "timeMonth": 2024,
+    "timeYear": 2024,
     "dailyMinutesDown": {
       "2024-10-10": 34
     }
