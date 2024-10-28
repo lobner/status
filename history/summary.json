@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 796,
-    "timeDay": 398,
-    "timeWeek": 558,
-    "timeMonth": 577,
-    "timeYear": 662,
+    "timeDay": 704,
+    "timeWeek": 602,
+    "timeMonth": 578,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2024-05-08": 85,
       "2024-02-08": 22
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 622,
-    "timeDay": 398,
-    "timeWeek": 564,
-    "timeMonth": 597,
+    "timeDay": 534,
+    "timeWeek": 580,
+    "timeMonth": 591,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2024-10-19": 20,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 696,
-    "timeDay": 395,
-    "timeWeek": 503,
-    "timeMonth": 565,
+    "time": 697,
+    "timeDay": 713,
+    "timeWeek": 546,
+    "timeMonth": 569,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2024-07-04": 163,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 429,
-    "timeWeek": 565,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 582,
+    "timeDay": 532,
+    "timeWeek": 579,
+    "timeMonth": 578,
+    "timeYear": 582,
     "dailyMinutesDown": {}
   },
   {
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 935,
-    "timeDay": 613,
-    "timeWeek": 850,
-    "timeMonth": 1110,
-    "timeYear": 920,
+    "timeDay": 705,
+    "timeWeek": 844,
+    "timeMonth": 1101,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2024-07-04": 196
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 1849,
-    "timeDay": 993,
-    "timeWeek": 1014,
-    "timeMonth": 1767,
-    "timeYear": 1847,
+    "time": 1829,
+    "timeDay": 1005,
+    "timeWeek": 1035,
+    "timeMonth": 1680,
+    "timeYear": 1827,
     "dailyMinutesDown": {
       "2024-10-10": 34
     }
