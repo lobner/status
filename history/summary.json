@@ -4,18 +4,19 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 772,
+    "time": 771,
     "timeDay": 418,
     "timeWeek": 478,
     "timeMonth": 558,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2024-11-01": 0,
       "2024-05-08": 85,
       "2024-02-08": 22
     }
@@ -110,17 +111,16 @@
     "slug": "bi-q-a-s",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 1776,
     "timeDay": 1865,
     "timeWeek": 1191,
     "timeMonth": 1325,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2024-11-01": 11,
       "2024-10-10": 34
     }
   }
