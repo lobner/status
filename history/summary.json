@@ -117,9 +117,9 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -129,6 +129,7 @@
     "timeMonth": 1972,
     "timeYear": 1877,
     "dailyMinutesDown": {
+      "2024-12-19": 0,
       "2024-10-10": 34
     }
   }
