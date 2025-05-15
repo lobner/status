@@ -6,9 +6,9 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "99.56%",
     "time": 587,
     "timeDay": 591,
@@ -16,7 +16,7 @@
     "timeMonth": 588,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-05-15": 32,
+      "2025-05-15": 20,
       "2025-05-14": 56,
       "2025-05-12": 16,
       "2025-05-06": 23,
@@ -91,7 +91,8 @@
       "2024-12-30": 36,
       "2024-12-29": 40,
       "2024-12-27": 17,
-      "2024-12-26": 36
+      "2024-12-26": 36,
+      "2024-12-21": 19
     }
   },
   {
@@ -101,9 +102,9 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.56%",
     "time": 631,
     "timeDay": 690,
@@ -111,7 +112,7 @@
     "timeMonth": 656,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-05-15": 31,
+      "2025-05-15": 19,
       "2025-05-14": 55,
       "2025-05-12": 16,
       "2025-05-06": 23,
@@ -186,7 +187,7 @@
       "2024-12-27": 17,
       "2024-12-26": 35,
       "2024-12-21": 19,
-      "2024-12-20": 34
+      "2024-12-20": 56
     }
   },
   {
@@ -266,19 +267,19 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "down",
+    "status": "up",
     "uptime": "5.37%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.10%",
     "time": 1724,
-    "timeDay": 2114,
-    "timeWeek": 1783,
+    "timeDay": 1854,
+    "timeWeek": 1764,
     "timeMonth": 1598,
-    "timeYear": 1724,
+    "timeYear": 1723,
     "dailyMinutesDown": {
-      "2025-05-15": 25,
+      "2025-05-15": 39,
       "2025-04-26": 17,
       "2025-04-13": 20,
       "2025-04-07": 32,
