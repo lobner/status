@@ -6,9 +6,9 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.56%",
     "time": 586,
     "timeDay": 629,
@@ -16,7 +16,6 @@
     "timeMonth": 590,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-06-15": 10,
       "2025-06-13": 57,
       "2025-06-11": 16,
       "2025-06-09": 47,
@@ -86,7 +85,8 @@
       "2025-02-20": 26,
       "2025-02-18": 45,
       "2025-02-17": 22,
-      "2025-02-15": 48
+      "2025-02-15": 48,
+      "2025-02-13": 18
     }
   },
   {
@@ -96,9 +96,9 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.56%",
     "time": 635,
     "timeDay": 694,
@@ -106,7 +106,6 @@
     "timeMonth": 658,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2025-06-15": 10,
       "2025-06-13": 55,
       "2025-06-11": 16,
       "2025-06-09": 47,
@@ -176,7 +175,8 @@
       "2025-02-13": 17,
       "2025-02-10": 17,
       "2025-02-09": 32,
-      "2025-02-07": 53
+      "2025-02-07": 53,
+      "2025-02-06": 17
     }
   },
   {
@@ -246,7 +246,7 @@
     "time": 959,
     "timeDay": 1618,
     "timeWeek": 1269,
-    "timeMonth": 1240,
+    "timeMonth": 1260,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2025-05-08": 16,
@@ -260,18 +260,19 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "up",
-    "uptime": "16.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.24%",
+    "status": "down",
+    "uptime": "16.63%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.18%",
-    "time": 1678,
-    "timeDay": 2316,
-    "timeWeek": 1493,
-    "timeMonth": 1436,
-    "timeYear": 1677,
+    "uptimeYear": "99.19%",
+    "time": 1675,
+    "timeDay": 1351,
+    "timeWeek": 1432,
+    "timeMonth": 1420,
+    "timeYear": 1674,
     "dailyMinutesDown": {
+      "2025-06-15": 0,
       "2025-06-13": 39,
       "2025-06-11": 38,
       "2025-05-20": 23,
