@@ -4,18 +4,19 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "98.42%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 587,
     "timeDay": 557,
     "timeWeek": 582,
     "timeMonth": 583,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2025-06-28": 0,
       "2025-06-27": 18,
       "2025-06-26": 42,
       "2025-06-24": 32,
@@ -81,8 +82,7 @@
       "2025-03-11": 16,
       "2025-03-10": 57,
       "2025-03-07": 24,
-      "2025-03-06": 15,
-      "2025-03-03": 46
+      "2025-03-06": 15
     }
   },
   {
@@ -90,10 +90,10 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.62%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.56%",
     "time": 636,
@@ -102,6 +102,7 @@
     "timeMonth": 659,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2025-06-28": 0,
       "2025-06-27": 18,
       "2025-06-26": 41,
       "2025-06-24": 32,
@@ -167,8 +168,7 @@
       "2025-03-03": 46,
       "2025-03-02": 17,
       "2025-02-28": 67,
-      "2025-02-27": 58,
-      "2025-02-26": 20
+      "2025-02-27": 58
     }
   },
   {
@@ -181,12 +181,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.91%",
     "time": 1055,
     "timeDay": 620,
     "timeWeek": 3566,
     "timeMonth": 2591,
-    "timeYear": 1207,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-05-24": 59,
       "2025-05-21": 36,
@@ -251,7 +251,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "20.29%",
+    "uptime": "20.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
