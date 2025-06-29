@@ -4,18 +4,19 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.45%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "99.57%",
-    "time": 586,
+    "uptimeYear": "99.58%",
+    "time": 587,
     "timeDay": 599,
-    "timeWeek": 592,
+    "timeWeek": 596,
     "timeMonth": 585,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-28": 16,
       "2025-06-27": 18,
       "2025-06-26": 42,
@@ -81,8 +82,7 @@
       "2025-03-12": 81,
       "2025-03-11": 16,
       "2025-03-10": 57,
-      "2025-03-07": 24,
-      "2025-03-06": 15
+      "2025-03-07": 24
     }
   },
   {
@@ -90,18 +90,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.46%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 636,
     "timeDay": 676,
-    "timeWeek": 659,
+    "timeWeek": 668,
     "timeMonth": 660,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-28": 15,
       "2025-06-27": 18,
       "2025-06-26": 41,
@@ -168,7 +169,7 @@
       "2025-03-03": 46,
       "2025-03-02": 17,
       "2025-02-28": 67,
-      "2025-02-27": 58
+      "2025-02-27": 20
     }
   },
   {
@@ -251,7 +252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "20.57%",
+    "uptime": "20.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
@@ -259,7 +260,7 @@
     "time": 1681,
     "timeDay": 1510,
     "timeWeek": 2131,
-    "timeMonth": 1562,
+    "timeMonth": 1574,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2025-06-13": 39,
