@@ -6,17 +6,17 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.61%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "99.56%",
     "time": 587,
-    "timeDay": 628,
+    "timeDay": 642,
     "timeWeek": 589,
     "timeMonth": 584,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-07-11": 55,
+      "2025-07-11": 44,
       "2025-07-10": 37,
       "2025-07-09": 35,
       "2025-07-08": 103,
@@ -80,7 +80,8 @@
       "2025-03-31": 15,
       "2025-03-30": 45,
       "2025-03-29": 18,
-      "2025-03-28": 17
+      "2025-03-28": 17,
+      "2025-03-26": 17
     }
   },
   {
@@ -90,17 +91,17 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "95.92%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.57%",
     "time": 638,
-    "timeDay": 696,
+    "timeDay": 709,
     "timeWeek": 686,
     "timeMonth": 660,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2025-07-11": 54,
+      "2025-07-11": 44,
       "2025-07-10": 36,
       "2025-07-09": 34,
       "2025-07-08": 101,
@@ -163,7 +164,8 @@
       "2025-03-30": 45,
       "2025-03-29": 17,
       "2025-03-26": 41,
-      "2025-03-22": 19
+      "2025-03-22": 19,
+      "2025-03-20": 15
     }
   },
   {
@@ -245,9 +247,9 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "up",
-    "uptime": "23.96%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "23.98%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.26%",
@@ -257,6 +259,7 @@
     "timeMonth": 1600,
     "timeYear": 1673,
     "dailyMinutesDown": {
+      "2025-07-11": 0,
       "2025-06-13": 39,
       "2025-06-11": 38,
       "2025-05-20": 23,
