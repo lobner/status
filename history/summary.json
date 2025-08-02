@@ -6,9 +6,9 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "93.10%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.51%",
     "time": 589,
     "timeDay": 463,
@@ -16,7 +16,7 @@
     "timeMonth": 603,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-08-01": 104,
+      "2025-08-01": 101,
       "2025-07-31": 38,
       "2025-07-30": 146,
       "2025-07-29": 136,
@@ -53,7 +53,7 @@
       "2025-06-27": 18,
       "2025-06-26": 42,
       "2025-06-24": 32,
-      "2025-06-22": 15
+      "2025-06-22": 49
     }
   },
   {
@@ -63,9 +63,9 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "93.32%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.51%",
     "time": 644,
     "timeDay": 563,
@@ -73,7 +73,7 @@
     "timeMonth": 684,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-08-01": 103,
+      "2025-08-01": 100,
       "2025-07-31": 38,
       "2025-07-30": 161,
       "2025-07-29": 133,
@@ -111,7 +111,8 @@
       "2025-06-26": 41,
       "2025-06-24": 32,
       "2025-06-22": 49,
-      "2025-06-20": 35
+      "2025-06-20": 35,
+      "2025-06-19": 19
     }
   },
   {
@@ -194,7 +195,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "29.18%",
+    "uptime": "29.20%",
     "uptimeDay": "98.88%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
