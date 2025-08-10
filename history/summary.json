@@ -12,8 +12,8 @@
     "uptimeYear": "99.51%",
     "time": 588,
     "timeDay": 585,
-    "timeWeek": 561,
-    "timeMonth": 596,
+    "timeWeek": 563,
+    "timeMonth": 597,
     "timeYear": 589,
     "dailyMinutesDown": {
       "2025-08-09": 183,
@@ -57,7 +57,7 @@
     "uptimeYear": "99.50%",
     "time": 652,
     "timeDay": 683,
-    "timeWeek": 813,
+    "timeWeek": 818,
     "timeMonth": 714,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -170,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "30.95%",
+    "uptime": "30.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.78%",
