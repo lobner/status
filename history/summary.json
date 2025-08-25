@@ -4,15 +4,15 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "93.28%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 589,
     "timeDay": 572,
-    "timeWeek": 606,
+    "timeWeek": 604,
     "timeMonth": 586,
     "timeYear": 589,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
       "2025-08-02": 165,
       "2025-08-01": 101,
       "2025-07-31": 38,
-      "2025-07-30": 78
+      "2025-07-30": 61
     }
   },
   {
@@ -50,15 +50,15 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "91.69%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "91.66%",
     "uptimeWeek": "92.09%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.52%",
     "time": 651,
-    "timeDay": 632,
-    "timeWeek": 630,
+    "timeDay": 622,
+    "timeWeek": 629,
     "timeMonth": 684,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -88,8 +88,7 @@
       "2025-08-02": 164,
       "2025-08-01": 100,
       "2025-07-31": 38,
-      "2025-07-30": 161,
-      "2025-07-29": 25
+      "2025-07-30": 161
     }
   },
   {
@@ -173,9 +172,9 @@
     "slug": "bi-q-a-s",
     "status": "up",
     "uptime": "33.97%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.15%",
     "time": 1653,
     "timeDay": 1201,
@@ -183,7 +182,6 @@
     "timeMonth": 1473,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2025-08-25": 8,
       "2025-08-14": 389,
       "2025-08-13": 511,
       "2025-08-07": 26,
