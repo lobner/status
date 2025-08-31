@@ -6,9 +6,9 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "99.55%",
     "time": 588,
     "timeDay": 559,
@@ -16,7 +16,7 @@
     "timeMonth": 580,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-08-31": 23,
+      "2025-08-31": 15,
       "2025-08-30": 16,
       "2025-08-29": 88,
       "2025-08-28": 153,
@@ -43,7 +43,7 @@
       "2025-08-07": 70,
       "2025-08-06": 101,
       "2025-08-05": 129,
-      "2025-08-04": 29
+      "2025-08-04": 48
     }
   },
   {
@@ -53,9 +53,9 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.52%",
     "time": 650,
     "timeDay": 646,
@@ -63,7 +63,7 @@
     "timeMonth": 673,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-08-31": 23,
+      "2025-08-31": 15,
       "2025-08-30": 16,
       "2025-08-29": 88,
       "2025-08-28": 150,
@@ -91,7 +91,8 @@
       "2025-08-06": 99,
       "2025-08-05": 128,
       "2025-08-04": 47,
-      "2025-08-03": 99
+      "2025-08-03": 99,
+      "2025-08-02": 19
     }
   },
   {
@@ -173,18 +174,19 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "up",
-    "uptime": "35.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "35.13%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "99.17%",
-    "time": 1659,
-    "timeDay": 1295,
-    "timeWeek": 1846,
-    "timeMonth": 1529,
-    "timeYear": 1659,
+    "time": 1657,
+    "timeDay": 865,
+    "timeWeek": 1704,
+    "timeMonth": 1508,
+    "timeYear": 1656,
     "dailyMinutesDown": {
+      "2025-08-31": 0,
       "2025-08-14": 389,
       "2025-08-13": 511,
       "2025-08-07": 26,
