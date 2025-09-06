@@ -6,17 +6,17 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "95.62%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "94.82%",
+    "uptimeWeek": "95.71%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "99.54%",
     "time": 588,
     "timeDay": 570,
-    "timeWeek": 583,
+    "timeWeek": 584,
     "timeMonth": 584,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-09-05": 84,
+      "2025-09-05": 75,
       "2025-09-04": 65,
       "2025-09-03": 44,
       "2025-09-02": 105,
@@ -44,7 +44,7 @@
       "2025-08-11": 95,
       "2025-08-10": 35,
       "2025-08-09": 183,
-      "2025-08-08": 19
+      "2025-08-08": 46
     }
   },
   {
@@ -54,17 +54,17 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 652,
     "timeDay": 682,
-    "timeWeek": 667,
+    "timeWeek": 668,
     "timeMonth": 677,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-09-05": 82,
+      "2025-09-05": 74,
       "2025-09-04": 65,
       "2025-09-03": 29,
       "2025-09-02": 75,
@@ -94,7 +94,7 @@
       "2025-08-09": 182,
       "2025-08-08": 72,
       "2025-08-07": 69,
-      "2025-08-06": 15
+      "2025-08-06": 36
     }
   },
   {
