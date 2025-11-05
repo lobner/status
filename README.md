@@ -1,6 +1,6 @@
 # [📈 Live Status](https://lobner.github.io/status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Søren Løbner](www.bdq.dk), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Søren Løbner](https://github.com/lobner), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/lobner/status/workflows/Uptime%20CI/badge.svg)](https://github.com/lobner/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/lobner/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/lobner/status/actions?query=workflow%3A%22Response+Time+CI%22)
