@@ -4,15 +4,15 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.84%",
+    "uptimeDay": "88.81%",
     "uptimeWeek": "89.09%",
-    "uptimeMonth": "93.41%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 591,
     "timeDay": 590,
-    "timeWeek": 605,
+    "timeWeek": 606,
     "timeMonth": 593,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2025-10-18": 23,
       "2025-10-17": 91,
       "2025-10-16": 56,
-      "2025-10-15": 37
+      "2025-10-15": 20
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "88.93%",
-    "uptimeWeek": "89.31%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.44%",
     "time": 660,
     "timeDay": 725,
-    "timeWeek": 682,
+    "timeWeek": 683,
     "timeMonth": 665,
     "timeYear": 663,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
       "2025-10-17": 90,
       "2025-10-16": 55,
       "2025-10-15": 53,
-      "2025-10-14": 84
+      "2025-10-14": 53
     }
   },
   {
@@ -176,18 +176,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "46.82%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.21%",
+    "uptime": "46.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.22%",
     "time": 1639,
     "timeDay": 1056,
     "timeWeek": 1139,
     "timeMonth": 1656,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-11-14": 8,
       "2025-11-04": 27,
       "2025-10-04": 22,
       "2025-08-14": 389,
