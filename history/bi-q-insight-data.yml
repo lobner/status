@@ -1,7 +1,7 @@
 url: https://data.biq.dk
-status: up
-code: 200
-responseTime: 525
-lastUpdated: 2025-11-18T12:10:06.340Z
+status: down
+code: 500
+responseTime: 149
+lastUpdated: 2025-11-18T12:26:42.216Z
 startTime: 2024-09-23T09:45:45.309Z
 generator: Upptime <https://github.com/upptime/upptime>
