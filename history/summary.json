@@ -4,18 +4,19 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.24%",
     "uptimeWeek": "89.24%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
     "time": 591,
     "timeDay": 615,
     "timeWeek": 628,
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2025-11-19": 0,
       "2025-11-18": 25,
       "2025-11-17": 133,
       "2025-11-16": 142,
@@ -44,8 +45,7 @@
       "2025-10-23": 55,
       "2025-10-22": 127,
       "2025-10-21": 140,
-      "2025-10-20": 23,
-      "2025-10-19": 19
+      "2025-10-20": 23
     }
   },
   {
@@ -53,18 +53,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.29%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "89.30%",
     "uptimeMonth": "93.13%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 660,
     "timeDay": 693,
     "timeWeek": 678,
     "timeMonth": 666,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2025-11-19": 1,
       "2025-11-18": 25,
       "2025-11-17": 130,
       "2025-11-16": 139,
@@ -94,7 +95,7 @@
       "2025-10-22": 192,
       "2025-10-21": 124,
       "2025-10-20": 23,
-      "2025-10-19": 120
+      "2025-10-19": 77
     }
   },
   {
@@ -178,10 +179,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "47.35%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.78%",
+    "uptime": "47.36%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.20%",
     "time": 1628,
     "timeDay": 1101,
@@ -189,7 +190,6 @@
     "timeMonth": 1549,
     "timeYear": 1604,
     "dailyMinutesDown": {
-      "2025-11-19": 13,
       "2025-11-18": 56,
       "2025-11-04": 27,
       "2025-10-04": 22,
