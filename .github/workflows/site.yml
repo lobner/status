@@ -38,6 +38,7 @@ jobs:
           command: "site"
         env:
           UUPTIME_TOKEN: ${{ secrets.UUPTIME_TOKEN || github.token }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:

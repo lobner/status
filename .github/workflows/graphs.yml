@@ -37,3 +37,4 @@ jobs:
           command: "graphs"
         env:
           UUPTIME_TOKEN: ${{ secrets.UUPTIME_TOKEN || github.token }}
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
