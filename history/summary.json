@@ -4,15 +4,15 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "90.09%",
+    "uptimeDay": "90.06%",
     "uptimeWeek": "91.11%",
-    "uptimeMonth": "93.72%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 594,
-    "timeDay": 586,
-    "timeWeek": 586,
+    "timeDay": 596,
+    "timeWeek": 587,
     "timeMonth": 614,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
       "2025-12-05": 318,
       "2025-12-04": 84,
       "2025-12-03": 96,
-      "2025-12-02": 97
+      "2025-12-02": 81
     }
   },
   {
@@ -45,16 +45,16 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "91.22%",
+    "uptimeDay": "91.18%",
     "uptimeWeek": "91.34%",
-    "uptimeMonth": "93.88%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 663,
-    "timeDay": 704,
-    "timeWeek": 649,
-    "timeMonth": 662,
+    "timeDay": 712,
+    "timeWeek": 650,
+    "timeMonth": 663,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2025-12-23": 36,
@@ -78,7 +78,7 @@
       "2025-12-05": 259,
       "2025-12-04": 60,
       "2025-12-03": 95,
-      "2025-12-02": 143
+      "2025-12-02": 122
     }
   },
   {
@@ -162,10 +162,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "51.21%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "98.80%",
+    "uptime": "51.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.11%",
     "time": 1589,
     "timeDay": 1249,
@@ -173,7 +173,6 @@
     "timeMonth": 1207,
     "timeYear": 1541,
     "dailyMinutesDown": {
-      "2025-12-23": 12,
       "2025-12-07": 37,
       "2025-12-04": 39,
       "2025-12-03": 323,
