@@ -4,15 +4,15 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "90.79%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "92.17%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 594,
-    "timeDay": 619,
-    "timeWeek": 590,
+    "timeDay": 601,
+    "timeWeek": 592,
     "timeMonth": 611,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
       "2025-12-07": 196,
       "2025-12-06": 17,
       "2025-12-05": 318,
-      "2025-12-04": 45
+      "2025-12-04": 28
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "92.23%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "99.49%",
     "time": 663,
-    "timeDay": 702,
-    "timeWeek": 665,
+    "timeDay": 705,
+    "timeWeek": 667,
     "timeMonth": 663,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-12-26": 56,
+      "2025-12-26": 57,
       "2025-12-25": 144,
       "2025-12-24": 17,
       "2025-12-23": 87,
@@ -80,7 +80,7 @@
       "2025-12-07": 195,
       "2025-12-06": 16,
       "2025-12-05": 259,
-      "2025-12-04": 60
+      "2025-12-04": 44
     }
   },
   {
@@ -149,7 +149,7 @@
     "uptimeYear": "99.97%",
     "time": 1009,
     "timeDay": 666,
-    "timeWeek": 838,
+    "timeWeek": 856,
     "timeMonth": 855,
     "timeYear": 1041,
     "dailyMinutesDown": {
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "51.56%",
+    "uptime": "51.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
