@@ -4,15 +4,15 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.15%",
+    "uptimeDay": "88.12%",
     "uptimeWeek": "92.32%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "99.49%",
     "time": 594,
     "timeDay": 558,
-    "timeWeek": 580,
+    "timeWeek": 578,
     "timeMonth": 607,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -38,8 +38,7 @@
       "2025-12-09": 158,
       "2025-12-08": 25,
       "2025-12-07": 196,
-      "2025-12-06": 17,
-      "2025-12-05": 49
+      "2025-12-06": 17
     }
   },
   {
@@ -47,11 +46,11 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "88.25%",
+    "uptimeDay": "88.21%",
     "uptimeWeek": "92.54%",
-    "uptimeMonth": "93.85%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 663,
     "timeDay": 683,
@@ -82,7 +81,7 @@
       "2025-12-08": 25,
       "2025-12-07": 195,
       "2025-12-06": 16,
-      "2025-12-05": 65
+      "2025-12-05": 49
     }
   },
   {
@@ -152,7 +151,7 @@
     "time": 1010,
     "timeDay": 749,
     "timeWeek": 805,
-    "timeMonth": 859,
+    "timeMonth": 873,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-11-18": 75,
@@ -166,7 +165,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "51.75%",
+    "uptime": "51.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
@@ -174,7 +173,7 @@
     "time": 1586,
     "timeDay": 1338,
     "timeWeek": 1211,
-    "timeMonth": 1191,
+    "timeMonth": 1206,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2025-12-07": 37,
@@ -226,7 +225,7 @@
     "time": 463,
     "timeDay": 422,
     "timeWeek": 431,
-    "timeMonth": 466,
+    "timeMonth": 464,
     "timeYear": 463,
     "dailyMinutesDown": {}
   }
