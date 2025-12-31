@@ -6,17 +6,17 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "91.74%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "94.16%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "99.51%",
     "time": 594,
     "timeDay": 572,
     "timeWeek": 573,
-    "timeMonth": 605,
+    "timeMonth": 603,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-12-30": 118,
+      "2025-12-30": 110,
       "2025-12-29": 108,
       "2025-12-28": 172,
       "2025-12-27": 96,
@@ -36,7 +36,7 @@
       "2025-12-13": 79,
       "2025-12-12": 192,
       "2025-12-11": 209,
-      "2025-12-10": 43
+      "2025-12-10": 60
     }
   },
   {
@@ -46,17 +46,17 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "92.64%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "99.51%",
     "time": 664,
     "timeDay": 669,
     "timeWeek": 649,
     "timeMonth": 657,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-12-30": 118,
+      "2025-12-30": 110,
       "2025-12-29": 93,
       "2025-12-28": 170,
       "2025-12-27": 96,
@@ -77,7 +77,7 @@
       "2025-12-12": 190,
       "2025-12-11": 206,
       "2025-12-10": 58,
-      "2025-12-09": 16
+      "2025-12-09": 47
     }
   },
   {
@@ -94,7 +94,7 @@
     "time": 1711,
     "timeDay": 0,
     "timeWeek": 544,
-    "timeMonth": 563,
+    "timeMonth": 566,
     "timeYear": 2192,
     "dailyMinutesDown": {
       "2025-11-18": 56,
@@ -121,7 +121,7 @@
     "time": 638,
     "timeDay": 0,
     "timeWeek": 543,
-    "timeMonth": 571,
+    "timeMonth": 574,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-11-18": 47,
@@ -147,7 +147,7 @@
     "time": 1010,
     "timeDay": 0,
     "timeWeek": 779,
-    "timeMonth": 850,
+    "timeMonth": 858,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2025-11-18": 75,
@@ -161,15 +161,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "52.02%",
+    "uptime": "52.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.11%",
     "time": 1587,
     "timeDay": 0,
     "timeWeek": 1442,
-    "timeMonth": 1244,
+    "timeMonth": 1232,
     "timeYear": 1536,
     "dailyMinutesDown": {
       "2025-12-07": 37,
@@ -221,7 +221,7 @@
     "time": 460,
     "timeDay": 0,
     "timeWeek": 408,
-    "timeMonth": 447,
+    "timeMonth": 453,
     "timeYear": 460,
     "dailyMinutesDown": {}
   }
