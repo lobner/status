@@ -4,11 +4,11 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.51%",
     "time": 594,
     "timeDay": 580,
@@ -16,7 +16,7 @@
     "timeMonth": 603,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-12-31": 37,
+      "2025-12-31": 39,
       "2025-12-30": 110,
       "2025-12-29": 108,
       "2025-12-28": 172,
@@ -37,7 +37,7 @@
       "2025-12-13": 79,
       "2025-12-12": 192,
       "2025-12-11": 209,
-      "2025-12-10": 43
+      "2025-12-10": 17
     }
   },
   {
@@ -45,11 +45,11 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "92.36%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "92.34%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 664,
     "timeDay": 686,
@@ -57,7 +57,7 @@
     "timeMonth": 658,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-12-31": 37,
+      "2025-12-31": 39,
       "2025-12-30": 110,
       "2025-12-29": 93,
       "2025-12-28": 170,
@@ -78,8 +78,7 @@
       "2025-12-13": 83,
       "2025-12-12": 190,
       "2025-12-11": 206,
-      "2025-12-10": 58,
-      "2025-12-09": 16
+      "2025-12-10": 58
     }
   },
   {
@@ -164,9 +163,9 @@
     "slug": "bi-q-a-s",
     "status": "down",
     "uptime": "52.04%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.11%",
     "time": 1587,
     "timeDay": 0,
@@ -174,7 +173,7 @@
     "timeMonth": 1232,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2025-12-31": 1,
+      "2025-12-31": 20,
       "2025-12-07": 37,
       "2025-12-04": 39,
       "2025-12-03": 323,
