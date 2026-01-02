@@ -4,16 +4,16 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "93.23%",
+    "uptimeDay": "94.57%",
     "uptimeWeek": "92.60%",
-    "uptimeMonth": "94.11%",
+    "uptimeMonth": "94.15%",
     "uptimeYear": "99.51%",
     "time": 594,
-    "timeDay": 656,
+    "timeDay": 646,
     "timeWeek": 586,
-    "timeMonth": 606,
+    "timeMonth": 607,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2026-01-02": 54,
@@ -38,7 +38,7 @@
       "2025-12-14": 231,
       "2025-12-13": 79,
       "2025-12-12": 192,
-      "2025-12-11": 93
+      "2025-12-11": 76
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "93.30%",
+    "uptimeDay": "94.61%",
     "uptimeWeek": "92.97%",
-    "uptimeMonth": "94.11%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "99.51%",
     "time": 664,
-    "timeDay": 666,
+    "timeDay": 667,
     "timeWeek": 651,
     "timeMonth": 656,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-01-02": 53,
+      "2026-01-02": 54,
       "2026-01-01": 48,
       "2025-12-31": 72,
       "2025-12-30": 110,
@@ -80,7 +80,7 @@
       "2025-12-14": 230,
       "2025-12-13": 83,
       "2025-12-12": 190,
-      "2025-12-11": 152
+      "2025-12-11": 123
     }
   },
   {
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "52.24%",
+    "uptime": "52.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "98.78%",
@@ -172,7 +172,7 @@
     "time": 1587,
     "timeDay": 1610,
     "timeWeek": 1554,
-    "timeMonth": 1268,
+    "timeMonth": 1257,
     "timeYear": 1534,
     "dailyMinutesDown": {
       "2025-12-31": 77,
