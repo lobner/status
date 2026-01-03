@@ -6,17 +6,17 @@
     "slug": "lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "92.54%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "99.50%",
     "time": 594,
     "timeDay": 508,
     "timeWeek": 577,
     "timeMonth": 607,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2026-01-02": 136,
+      "2026-01-02": 128,
       "2026-01-01": 48,
       "2025-12-31": 88,
       "2025-12-30": 110,
@@ -38,7 +38,7 @@
       "2025-12-14": 231,
       "2025-12-13": 79,
       "2025-12-12": 192,
-      "2025-12-11": 30
+      "2025-12-11": 57
     }
   },
   {
@@ -48,17 +48,17 @@
     "slug": "ip-lobner-dk",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "92.91%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.50%",
     "time": 664,
     "timeDay": 651,
     "timeWeek": 645,
     "timeMonth": 658,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2026-01-02": 133,
+      "2026-01-02": 125,
       "2026-01-01": 48,
       "2025-12-31": 72,
       "2025-12-30": 110,
@@ -80,7 +80,7 @@
       "2025-12-14": 230,
       "2025-12-13": 83,
       "2025-12-12": 190,
-      "2025-12-11": 92
+      "2025-12-11": 108
     }
   },
   {
@@ -167,7 +167,7 @@
     "uptime": "52.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.91%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.10%",
     "time": 1585,
     "timeDay": 950,
