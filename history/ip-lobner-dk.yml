@@ -1,7 +1,7 @@
 url: https://ip.lobner.dk
-status: up
-code: 200
-responseTime: 552
-lastUpdated: 2026-02-01T21:54:54.268Z
+status: down
+code: 503
+responseTime: 568
+lastUpdated: 2026-02-01T22:38:01.406Z
 startTime: 2022-07-07T18:54:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
