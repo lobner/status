@@ -4,16 +4,16 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "87.21%",
+    "uptimeDay": "87.18%",
     "uptimeWeek": "89.01%",
-    "uptimeMonth": "94.13%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "99.51%",
     "time": 595,
     "timeDay": 495,
     "timeWeek": 586,
-    "timeMonth": 594,
+    "timeMonth": 595,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2026-02-05": 132,
@@ -37,7 +37,7 @@
       "2026-01-18": 16,
       "2026-01-17": 45,
       "2026-01-16": 142,
-      "2026-01-15": 136
+      "2026-01-15": 118
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "88.38%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "88.33%",
     "uptimeWeek": "89.40%",
-    "uptimeMonth": "94.13%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.52%",
     "time": 666,
     "timeDay": 564,
     "timeWeek": 639,
     "timeMonth": 660,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-02-05": 129,
+      "2026-02-05": 130,
       "2026-02-04": 260,
       "2026-02-03": 134,
       "2026-02-02": 100,
@@ -79,7 +79,7 @@
       "2026-01-17": 29,
       "2026-01-16": 140,
       "2026-01-15": 136,
-      "2026-01-14": 69
+      "2026-01-14": 37
     }
   },
   {
@@ -162,14 +162,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "55.48%",
+    "uptime": "55.50%",
     "uptimeDay": "97.10%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.08%",
     "time": 1557,
     "timeDay": 909,
-    "timeWeek": 1146,
+    "timeWeek": 1116,
     "timeMonth": 1401,
     "timeYear": 1500,
     "dailyMinutesDown": {
