@@ -4,14 +4,14 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "86.88%",
+    "uptimeDay": "90.67%",
     "uptimeWeek": "88.33%",
-    "uptimeMonth": "93.99%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
     "time": 595,
-    "timeDay": 552,
+    "timeDay": 567,
     "timeWeek": 562,
     "timeMonth": 590,
     "timeYear": 595,
@@ -35,8 +35,7 @@
       "2026-01-22": 114,
       "2026-01-21": 18,
       "2026-01-20": 58,
-      "2026-01-19": 77,
-      "2026-01-18": 16
+      "2026-01-19": 77
     }
   },
   {
@@ -44,19 +43,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "87.01%",
+    "uptimeDay": "90.75%",
     "uptimeWeek": "88.57%",
-    "uptimeMonth": "94.01%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 666,
-    "timeDay": 638,
+    "timeDay": 644,
     "timeWeek": 634,
-    "timeMonth": 656,
+    "timeMonth": 655,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-02-07": 50,
+      "2026-02-07": 51,
       "2026-02-06": 221,
       "2026-02-05": 241,
       "2026-02-04": 260,
@@ -77,8 +76,7 @@
       "2026-01-20": 56,
       "2026-01-19": 76,
       "2026-01-18": 15,
-      "2026-01-17": 29,
-      "2026-01-16": 15
+      "2026-01-17": 29
     }
   },
   {
@@ -161,7 +159,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
     "status": "up",
-    "uptime": "55.64%",
+    "uptime": "55.66%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.44%",
@@ -169,7 +167,7 @@
     "time": 1540,
     "timeDay": 1047,
     "timeWeek": 1107,
-    "timeMonth": 1377,
+    "timeMonth": 1261,
     "timeYear": 1497,
     "dailyMinutesDown": {
       "2026-02-06": 22,
