@@ -4,14 +4,14 @@
     "url": "https://www.løbner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.xn--lbner-vua.dk.ico",
     "slug": "lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.37%",
+    "uptimeDay": "92.40%",
     "uptimeWeek": "89.41%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.49%",
     "time": 596,
-    "timeDay": 661,
+    "timeDay": 668,
     "timeWeek": 663,
     "timeMonth": 599,
     "timeYear": 596,
@@ -33,7 +33,7 @@
       "2026-01-30": 183,
       "2026-01-29": 151,
       "2026-01-28": 170,
-      "2026-01-27": 55
+      "2026-01-27": 37
     }
   },
   {
@@ -41,19 +41,19 @@
     "url": "https://ip.lobner.dk",
     "icon": "https://icons.duckduckgo.com/ip3/ip.lobner.dk.ico",
     "slug": "ip-lobner-dk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "89.50%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "99.49%",
     "time": 667,
-    "timeDay": 689,
-    "timeWeek": 641,
+    "timeDay": 685,
+    "timeWeek": 642,
     "timeMonth": 645,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2026-02-13": 43,
+      "2026-02-13": 44,
       "2026-02-12": 144,
       "2026-02-11": 113,
       "2026-02-10": 140,
@@ -70,7 +70,7 @@
       "2026-01-30": 166,
       "2026-01-29": 149,
       "2026-01-28": 168,
-      "2026-01-27": 112
+      "2026-01-27": 79
     }
   },
   {
