@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Løbner.dk
-    url: https://www.løbner.dk
+    url: https://www.lobner.dk
   - name: IP @ lobner.dk
     url: https://ip.lobner.dk
   - name: BiQ Insight
