@@ -32,5 +32,11 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# Render dates as YYYY-MM-DD instead of the default en-US MM/DD/YYYY.
+# The status page formats dates with toLocaleDateString(i18n.locale); the
+# en-CA locale uses ISO 8601 (YYYY-MM-DD) while keeping the UI in English.
+i18n:
+  locale: en-CA
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
