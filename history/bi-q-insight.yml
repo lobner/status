@@ -1,7 +1,7 @@
 url: https://insight.biq.dk
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2026-06-26T23:21:33.809Z
+status: down
+code: 503
+responseTime: 326
+lastUpdated: 2026-06-27T23:18:36.837Z
 startTime: 2023-02-22T13:13:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
