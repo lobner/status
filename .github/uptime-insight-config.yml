@@ -1,0 +1,8 @@
+owner: lobner
+repo: status
+
+sites:
+  - name: BiQ Insight
+    url: https://insight.biq.dk
+  - name: BiQ Insight (data)
+    url: https://data.biq.dk
