@@ -185,16 +185,16 @@
     "url": "https://www.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/www.biq.dk.ico",
     "slug": "bi-q-a-s",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.23%",
-    "time": 1331,
-    "timeDay": 1020,
-    "timeWeek": 1049,
-    "timeMonth": 1130,
+    "time": 1330,
+    "timeDay": 1077,
+    "timeWeek": 1060,
+    "timeMonth": 1131,
     "timeYear": 1273,
     "dailyMinutesDown": {
       "2025-10-04": 22,
@@ -272,7 +272,7 @@
       "2026-07-31": 21,
       "2026-08-04": 135,
       "2026-08-03": 5,
-      "2026-08-16": 1
+      "2026-08-16": 7
     }
   },
   {
