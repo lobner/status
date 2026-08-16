@@ -110,17 +110,17 @@
     "url": "https://insight.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/insight.biq.dk.ico",
     "slug": "bi-q-insight",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.93%",
     "time": 1792,
-    "timeDay": 715,
-    "timeWeek": 371,
-    "timeMonth": 469,
-    "timeYear": 1312,
+    "timeDay": 578,
+    "timeWeek": 380,
+    "timeMonth": 468,
+    "timeYear": 1310,
     "dailyMinutesDown": {
       "2025-10-16": 53,
       "2025-11-18": 56,
@@ -128,7 +128,8 @@
       "2026-06-13": 30,
       "2026-06-27": 15,
       "2026-06-29": 16,
-      "2026-08-05": 199
+      "2026-08-05": 199,
+      "2026-08-16": 1
     }
   },
   {
@@ -136,17 +137,17 @@
     "url": "https://data.biq.dk",
     "icon": "https://icons.duckduckgo.com/ip3/data.biq.dk.ico",
     "slug": "bi-q-insight-data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
     "time": 693,
-    "timeDay": 906,
-    "timeWeek": 745,
-    "timeMonth": 896,
-    "timeYear": 724,
+    "timeDay": 677,
+    "timeWeek": 708,
+    "timeMonth": 882,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-10-16": 53,
       "2025-11-18": 47,
@@ -154,7 +155,8 @@
       "2026-06-13": 20,
       "2026-06-27": 15,
       "2026-06-29": 16,
-      "2026-08-05": 199
+      "2026-08-05": 199,
+      "2026-08-16": 1
     }
   },
   {
